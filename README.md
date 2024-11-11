@@ -4,6 +4,7 @@ _This uses a GPU to find privatekey of the given pubkey._
 
 # Run
 ```
+(base) C:\anaconda3>python install bit
 (base) C:\anaconda3>python bsgs_GPU3.py
 usage: bsgs_GPU.py [-h] -pubkey PUBKEY [-n N] [-d D] [-t T] [-b B] [-p P]
                    [-bp BP] [-keyspace KEYSPACE] [-rand] [-rand1]
